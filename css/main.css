@@ -337,7 +337,7 @@ nav ul li a:hover {
 }
 
 .testimonial-1 {
-    background-image: url(images/testimonial-1.jpeg);
+    background-image: url(../images/testimonial-1.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -351,7 +351,7 @@ nav ul li a:hover {
 }
 
 .testimonial-2 {
-    background-image: url(images/testimonial-2.jpeg);
+    background-image: url(../images/testimonial-2.jpeg);
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -365,7 +365,7 @@ nav ul li a:hover {
 }
 
 .testimonial-3 {
-    background-image: url(images/testimonial-3.jpeg);
+    background-image: url(../images/testimonial-3.jpeg);
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
